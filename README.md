@@ -1,2 +1,2 @@
 # eth-wallet-generator
-Programatically generate Ethereum wallets using Python
+Programatically generate Ethereum wallets using Python. To generate the wallets, run `generate.py`. Then use `wallets_to_docx.py` to create Microsoft Word document which contains the wallet details, including a QR code to the wallet's page on [EtherScan](https://etherscan.io/).
